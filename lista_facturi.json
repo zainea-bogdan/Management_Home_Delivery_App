@@ -1,0 +1,72 @@
+[
+  {
+    "id_factura": 2,
+    "id_comanda": 2,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Localitatez",
+    "Judet": "Judetx",
+    "Adresa_Livrare": "Bulevard Tester, Bloc Bloker",
+    "Magazin": "Flanco",
+    "Produse": [
+      1,
+      2
+    ],
+    "modalitate_plata": "Vouchere cadou",
+    "Total_factura": 30
+  },
+  {
+    "id_factura": 3,
+    "id_comanda": 3,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Locali",
+    "Judet": "Judeti",
+    "Adresa_Livrare": "Bulevard TREn, Bloc KPM2",
+    "Magazin": "Lidl",
+    "Produse": [
+      11
+    ],
+    "modalitate_plata": "Numerar",
+    "Total_factura": 5
+  },
+  {
+    "id_factura": 5,
+    "id_comanda": 5,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Teste",
+    "Judet": "Testee",
+    "Adresa_Livrare": "Bulevard test, Bloc tester12",
+    "Magazin": "Dedeman",
+    "Produse": [
+      1
+    ],
+    "modalitate_plata": "Card Bancar",
+    "Total_factura": 10
+  },
+  {
+    "id_factura": 6,
+    "id_comanda": 6,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Testare",
+    "Judet": "Testare",
+    "Adresa_Livrare": "Bulevard testare, Bloc T1",
+    "Magazin": "Dedeman",
+    "Produse": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "modalitate_plata": "Card Bancar",
+    "Total_factura": 210
+  }
+]

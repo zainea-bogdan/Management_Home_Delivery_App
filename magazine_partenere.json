@@ -1,0 +1,194 @@
+[
+  {
+    "id_magazin": 1,
+    "nume_magazin": "Altex",
+    "coduri_produse": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "preturi_produse": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ]
+  },
+  {
+    "id_magazin": 2,
+    "nume_magazin": "Flanco",
+    "coduri_produse": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "preturi_produse": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ]
+  },
+  {
+    "id_magazin": 3,
+    "nume_magazin": "Lidl",
+    "coduri_produse": [
+      11,
+      22,
+      33,
+      44,
+      55,
+      66,
+      77,
+      88,
+      99,
+      100
+    ],
+    "preturi_produse": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      15,
+      17
+    ]
+  },
+  {
+    "id_magazin": 4,
+    "nume_magazin": "Dedeman",
+    "coduri_produse": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "preturi_produse": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ]
+  },
+  {
+    "id_magazin": 5,
+    "nume_magazin": "Pepco",
+    "coduri_produse": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "preturi_produse": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80,
+      90,
+      100
+    ]
+  },
+  {
+    "id_magazin": 6,
+    "nume_magazin": "MegaImage",
+    "coduri_produse": [
+      11,
+      22,
+      33,
+      44,
+      55,
+      66,
+      77,
+      88,
+      99,
+      100
+    ],
+    "preturi_produse": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      15,
+      17
+    ]
+  },
+  {
+    "id_magazin": 7,
+    "nume_magazin": "Profi ",
+    "coduri_produse": [
+      34,
+      35,
+      36
+    ],
+    "preturi_produse": [
+      10,
+      14,
+      15
+    ]
+  },
+  {
+    "id_magazin": 8,
+    "nume_magazin": "tesla",
+    "coduri_produse": [
+      1
+    ],
+    "preturi_produse": [
+      100
+    ]
+  }
+]

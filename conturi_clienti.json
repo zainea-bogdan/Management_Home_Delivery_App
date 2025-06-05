@@ -1,0 +1,26 @@
+[
+  {
+    "username": "contdetest",
+    "Nume": "Contdetest",
+    "Prenume": "Contdetestare",
+    "Id": 1,
+    "Nr_telefon": "0799999999",
+    "parola": "Contdetest1234"
+  },
+  {
+    "username": "babuscatatuscsa",
+    "Nume": "TEStare",
+    "Prenume": "testareee",
+    "Id": 2,
+    "Nr_telefon": "0788888888",
+    "parola": "Parolatester12345"
+  },
+  {
+    "username": "Usernametester",
+    "Nume": "Numeletester",
+    "Prenume": "Prenumeletester",
+    "Id": 3,
+    "Nr_telefon": "0711111111",
+    "parola": "Tester123456789"
+  }
+]

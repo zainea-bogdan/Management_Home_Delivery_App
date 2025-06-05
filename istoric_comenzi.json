@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Localitate",
+    "Judet": "Judetulx",
+    "Adresa_Livrare": "Bulevard BDL, Bloc BLC",
+    "Magazin": "Altex",
+    "Produse": [
+      1,
+      2,
+      3
+    ],
+    "modalitate_plata": "Card Bancar"
+  },
+  {
+    "id": 2,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Localitatez",
+    "Judet": "Judetx",
+    "Adresa_Livrare": "Bulevard Tester, Bloc Bloker",
+    "Magazin": "Flanco",
+    "Produse": [
+      1,
+      2
+    ],
+    "modalitate_plata": "Vouchere cadou"
+  },
+  {
+    "id": 3,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Locali",
+    "Judet": "Judeti",
+    "Adresa_Livrare": "Bulevard TREn, Bloc KPM2",
+    "Magazin": "Lidl",
+    "Produse": [
+      11
+    ],
+    "modalitate_plata": "Numerar"
+  },
+  {
+    "id": 4,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Test",
+    "Judet": "Test",
+    "Adresa_Livrare": "Bulevard test, Bloc test",
+    "Magazin": "Altex",
+    "Produse": [
+      10,
+      9,
+      8
+    ],
+    "modalitate_plata": "Card Bancar"
+  },
+  {
+    "id": 5,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Teste",
+    "Judet": "Testee",
+    "Adresa_Livrare": "Bulevard test, Bloc tester12",
+    "Magazin": "Dedeman",
+    "Produse": [
+      1
+    ],
+    "modalitate_plata": "Card Bancar"
+  },
+  {
+    "id": 6,
+    "nume_client": "Contdetest",
+    "prenume_client": "Contdetestare",
+    "nr_telefon": "0799999999",
+    "Localitate": "Testare",
+    "Judet": "Testare",
+    "Adresa_Livrare": "Bulevard testare, Bloc T1",
+    "Magazin": "Dedeman",
+    "Produse": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "modalitate_plata": "Card Bancar"
+  }
+]
