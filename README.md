@@ -68,3 +68,7 @@ Accessible only via a special admin login:
 - **C# (.NET Framework)**
 - **Windows Forms (WinForms)**
 - **PostgreSQL**
+
+> Disclaimer
+> The videos and memes included as part of the Easter Eggs in this project are used purely for entertainment and educational purposes. I do not claim ownership of any copyrighted media contained therein.
+> If you are the rightful owner and believe any content should be removed or credited differently, please feel free to contact me, and I will address the issue promptly.
