@@ -81,6 +81,11 @@ Accessible only via a special admin login:
 - **Windows Forms (WinForms)**
 - **PostgreSQL**
 
-> Disclaimer
+> Disclaimer 1:
 > The videos and memes included as part of the Easter Eggs in this project are used purely for entertainment and educational purposes. I do not claim ownership of any copyrighted media contained therein.
 > If you are the rightful owner and believe any content should be removed or credited differently, please feel free to contact me, and I will address the issue promptly.
+
+
+> Disclaimer 2
+> The partner stores used in this application are included solely for educational and demonstration purposes. I am not affiliated with any of the mentioned brands or businesses.
+> If any store owner has concerns regarding their inclusion, please contact me directly, and I will take appropriate action.
